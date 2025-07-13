@@ -88,16 +88,14 @@ Satellite imagery analysis project using Google Earth Engine to assess 2022 Paki
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science** - LUMS *(2019-2023)*
-- CGPA: 3.35
-- Focus: Software Engineering, Data Science, Systems Integration
+**Bachelor of Science in Computer Science** - Lahore University of Management Sciences *(2019-2023)*
 
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/Arbaz-Khan2)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Arbaz-Khan2)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ak.arbazkhan20@gmail.com)
-[![Phone](https://img.shields.io/badge/-Phone-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](tel:+923062080785)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/923062080785)
 
 ## 💡 Random Dev Quote
 
