@@ -5,11 +5,9 @@
 I'm a **Full-stack Software Engineer** from Lahore, Pakistan, with expertise in backend development using Django and system integrations. I'm passionate about building scalable solutions and have experience developing rider tracking systems, payment integrations, and third-party platform connections.
 
 - 🔭 I'm currently working as a Software Engineer at **Pattern Technologies**
-- 🌱 I'm currently exploring **Go** and **Ruby on Rails** for backend development
 - 👯 I'm looking to collaborate on **Django projects**, **mobile applications**, and **system integrations**
 - 💬 Ask me about **Django**, **Flutter**, **RESTful APIs**, and **food delivery platform integrations**
 - 📫 How to reach me: **ak.arbazkhan20@gmail.com**
-- ⚡ Fun fact: I've mentored 80+ student teams and reduced order processing time by 40% with my rider tracking system!
 
 ## 🛠️ Technologies & Tools
 
@@ -65,26 +63,9 @@ I'm a **Full-stack Software Engineer** from Lahore, Pakistan, with expertise in 
 - 🧪 Developed 40+ RESTful API endpoints with **95% test coverage**
 - 👥 Mentored 2 internship candidates and established CI/CD pipelines
 
-**Research Assistant** @ LUMS *(June 2023 - Oct 2023)*
+**Research Assistant** @ Lahore University of Management Sciences *(June 2023 - Oct 2023)*
 - 🌃 Researched urban development using nighttime satellite imagery
 - 📊 Developed data analysis scripts for satellite imagery processing
-
-## 🏆 Featured Projects
-
-### 🍔 Rider Tracking System
-Backend system for food delivery applications with real-time tracking, payment gateway integration, and multi-platform support.
-- **Tech Stack:** Django, PostgreSQL, Firebase, AWS
-- **Impact:** 40% reduction in order processing time
-
-### 📱 Android Food Delivery App
-Full-stack mobile application with Flutter frontend and Flask backend.
-- **Tech Stack:** Flutter, Flask, MySQL, AWS
-- **Features:** Real-time order tracking, payment integration, user authentication
-
-### 🛰️ Flood Damage Assessment
-Satellite imagery analysis project using Google Earth Engine to assess 2022 Pakistan flood damage.
-- **Tech Stack:** Google Earth Engine, JavaScript, Landsat 9
-- **Impact:** Infrastructure and agriculture damage estimation
 
 ## 🎓 Education
 
@@ -96,11 +77,3 @@ Satellite imagery analysis project using Google Earth Engine to assess 2022 Paki
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Arbaz-Khan2)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ak.arbazkhan20@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/923062080785)
-
-## 💡 Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-⭐️ From [Arbaz Khan](https://github.com/Arbaz-Khan2) | 🇵🇰 Lahore, Pakistan
