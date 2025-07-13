@@ -48,7 +48,7 @@ I'm a **Full-stack Software Engineer** from Lahore, Pakistan, with expertise in 
 
 ## 📊 GitHub Stats
 
-![Arbaz's GitHub stats](https://github-readme-stats-ochre-alpha-22.vercel.app/api/top-langs/?username=Arbaz-Khan2&show_icons=true&theme=radical)
+![Arbaz's GitHub stats]([https://github-readme-stats-ochre-alpha-22.vercel.app/api/top-langs/?username=Arbaz-Khan2&show_icons=true&theme=radical](https://github-readme-stats-ochre-alpha-22.vercel.app/api?username=Arbaz-Khan2&show_icons=true&theme=radical&count_private=true&include_all_commits=true))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbaz-Khan2&layout=compact&theme=radical)
 
